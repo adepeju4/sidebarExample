@@ -1,0 +1,20 @@
+{
+    "data" : [
+    {
+        "image": "clodinaryLinkIcon.com",
+        "sidebarOption": "Goals"
+    },
+    {
+        "image": "clodinaryLinkIcon.com",
+        "sidebarOption": "Policies"
+    },
+    {
+        "image": "clodinaryLinkIcon.com",
+        "sidebarOption": "Achievements"
+    },
+    {
+        "image": "clodinaryLinkIcon.com",
+        "sidebarOption": "Vision and mission"
+    }
+]
+}
