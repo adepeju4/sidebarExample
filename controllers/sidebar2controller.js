@@ -8,7 +8,7 @@ const sendSidebarData = (req, res) => {
       
       //MONGO DB TAKES IN OBJECTS SO TURN YOUR JSON DATA TO AN OBJECT FIRST
 
-      const objectData = JSON.stringify(data);
+      const objectData = JSON.parse(data);
 
       //now insert the object into your local db
     const localSidebar = await db.sidebar.insert(objectData);
